@@ -23,8 +23,9 @@
         self.imageView = [[AsyncImageView alloc] initWithFrame:self.contentView.bounds];
         self.imageView.showActivityIndicator = YES;
         self.imageView.activityIndicatorStyle = UIActivityIndicatorViewStyleWhite;
-        self.imageView.contentMode = UIViewContentModeScaleToFill;
+        self.imageView.contentMode = UIViewContentModeScaleAspectFill;
         self.imageView.autoresizingMask = UIViewAutoresizingFlexibleWidth | UIViewAutoresizingFlexibleHeight;
+        self.imageView.clipsToBounds = YES;
         [self.contentView addSubview:self.imageView];
     }
     return self;

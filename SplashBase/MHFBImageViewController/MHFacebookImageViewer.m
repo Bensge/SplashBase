@@ -333,8 +333,8 @@ static const CGFloat kMinImageScale = 1.0f;
     longPressGesture.minimumPressDuration = 0.8;
     [__scrollView addGestureRecognizer:longPressGesture];
     
-    [longPressGesture requireGestureRecognizerToFail:doubleTapRecognizer];
-    [longPressGesture requireGestureRecognizerToFail:singleTapRecognizer];
+    //[longPressGesture requireGestureRecognizerToFail:doubleTapRecognizer];
+    //[longPressGesture requireGestureRecognizerToFail:singleTapRecognizer];
 
     
     [singleTapRecognizer requireGestureRecognizerToFail:doubleTapRecognizer];
