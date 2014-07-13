@@ -3,6 +3,7 @@ Unofficial iOS Client for Splashbase.co
 
 # Screenshots
 <img alt="Screenshot 1" src="https://raw.githubusercontent.com/Bensge/SplashBase/master/screenshot1.png" width="200px">
+<span width="50px"/>
 <img alt="Screenshot 2" src="https://raw.githubusercontent.com/Bensge/SplashBase/master/screenshot2.png" width="200px">
 
 # Libraries
