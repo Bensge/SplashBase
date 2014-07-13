@@ -27,6 +27,7 @@
 		9DD449A219729233002D59B0 /* SplashBaseAPI.m in Sources */ = {isa = PBXBuildFile; fileRef = 9DD449A119729233002D59B0 /* SplashBaseAPI.m */; };
 		9DD449A5197295AF002D59B0 /* SBImageInfo.m in Sources */ = {isa = PBXBuildFile; fileRef = 9DD449A4197295AF002D59B0 /* SBImageInfo.m */; };
 		9DD449A819729BE7002D59B0 /* SBImageCell.m in Sources */ = {isa = PBXBuildFile; fileRef = 9DD449A719729BE7002D59B0 /* SBImageCell.m */; };
+		9DFBE6281972C1EF008B42B0 /* Readme.md in Resources */ = {isa = PBXBuildFile; fileRef = 9DFBE6271972C1EF008B42B0 /* Readme.md */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -70,6 +71,7 @@
 		9DD449A4197295AF002D59B0 /* SBImageInfo.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = SBImageInfo.m; sourceTree = "<group>"; };
 		9DD449A619729BE7002D59B0 /* SBImageCell.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = SBImageCell.h; sourceTree = "<group>"; };
 		9DD449A719729BE7002D59B0 /* SBImageCell.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = SBImageCell.m; sourceTree = "<group>"; };
+		9DFBE6271972C1EF008B42B0 /* Readme.md */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = Readme.md; sourceTree = SOURCE_ROOT; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -148,6 +150,7 @@
 		9DD44974197291D1002D59B0 /* SplashBase */ = {
 			isa = PBXGroup;
 			children = (
+				9DFBE6271972C1EF008B42B0 /* Readme.md */,
 				9DD4497D197291D1002D59B0 /* AppDelegate.h */,
 				9DD4497E197291D1002D59B0 /* AppDelegate.m */,
 				9DD449A3197295AF002D59B0 /* SBImageInfo.h */,
@@ -274,6 +277,7 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				9DFBE6281972C1EF008B42B0 /* Readme.md in Resources */,
 				9D89C7F21972AFAD00E0501C /* Done.png in Resources */,
 				9DD44979197291D1002D59B0 /* InfoPlist.strings in Resources */,
 				9D89C7F31972AFAD00E0501C /* Done@2x.png in Resources */,
