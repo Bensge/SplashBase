@@ -2,8 +2,8 @@
 Unofficial iOS Client for Splashbase.co
 
 # Screenshots
-![Screenshot 1](https://raw.githubusercontent.com/Bensge/SplashBase/master/screenshot1.png)
-![Screenshot 2](https://raw.githubusercontent.com/Bensge/SplashBase/master/screenshot2.png)
+<img alt="Screenshot 1" src="https://raw.githubusercontent.com/Bensge/SplashBase/master/screenshot1.png" width="200px">
+<img alt="Screenshot 2" src="https://raw.githubusercontent.com/Bensge/SplashBase/master/screenshot2.png" width="200px">
 
 # Libraries
 Uses a **modified version** of [AsyncImageView](https://github.com/nicklockwood/AsyncImageView) and a **modified version** of [MHFacebookImageViewer](https://github.com/michaelhenry/MHFacebookImageViewer)
